@@ -1,5 +1,5 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 05-05-2024
+### DATE: 30.08.24
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -27,10 +27,10 @@
 
 ### Output:
 
-Name: S DHANUSH
+Name: Mathan M
 
 
-Register No: 212221230020
+Register No: 212221040102
 
 
 ![image](https://github.com/VINUTHNA-2004/WDM_EXP10/assets/95067307/f5f29784-e038-4585-b8f7-3b7bc005b81b)
